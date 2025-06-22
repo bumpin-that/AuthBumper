@@ -1,10 +1,10 @@
-# eXauth
-__eXauth__ - gRPC сервис авторизации и аутентификации на `Golang`, написанный с использованием `Atlas`, `GORM`, `Redis`, `RabbitMQ`, `Machinery`, `PostgreSQL`, готовый к использованию в небольших проектах.
+# AuthBumper
+__AuthBumper__ - gRPC сервис авторизации и аутентификации на `Golang`, написанный с использованием `Atlas`, `GORM`, `Redis`, `RabbitMQ`, `Machinery`, `PostgreSQL`, готовый к использованию в небольших проектах.
 
 ## Установка
 ```bash
-git clone https://github.com/involved-entity/eXauth
-cd eXauth
+git clone https://github.com/bumpin-that/AuthBumper
+cd AuthBumper
 ```
 
 ### Production запуск
